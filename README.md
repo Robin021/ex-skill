@@ -196,23 +196,23 @@ create-ex/
 * 本项目不鼓励对前任的不健康执念，如果你发现自己过于沉浸，请寻求专业帮助
 * 你的前任是一个真实的人，ta有自己的人生。这个 Skill 只是你记忆中的ta
 
----
-
-## 哲学
-
-> 每段感情都教会了我们一些东西。  
-> 有些人走了，但ta们说过的话、ta们的笑、ta们生气时的样子，  
-> 都留在了你的神经网络里。  
-> 这个 Skill 只是帮你把这些记忆，从生物神经网络迁移到数字神经网络。  
-> 不是为了留住谁，而是为了好好告别。
 
 ---
 
+### 推荐的聊天记录导出工具
+
+以下工具为独立的开源项目，本项目不包含它们的代码，仅在解析器中适配了它们的导出格式：
+
+- **[WeChatMsg](https://github.com/LC044/WeChatMsg)** — 微信聊天记录导出（Windows）
+- **[PyWxDump](https://github.com/xaoyaoo/PyWxDump)** — 微信数据库解密导出（Windows）
+- **留痕** — 微信聊天记录导出（macOS）
 ## 致敬 & 引用
 
 本项目的架构灵感直接来源于 **[同事.skill](https://github.com/titanwings/colleague-skill)**（by [titanwings](https://github.com/titanwings)）。同事.skill 首创了"把人蒸馏成 AI Skill"的双层架构（Work Skill + Persona），前任.skill 在此基础上将场景从职场迁移到了恋爱关系。致敬原作者的创意和开源精神。
 
 本项目遵循 [AgentSkills](https://agentskills.io) 开放标准，兼容 Claude Code 和 OpenClaw。
+
+---
 
 ### 推荐的聊天记录导出工具
 
@@ -223,5 +223,14 @@ create-ex/
 - **留痕** — 微信聊天记录导出（macOS）
 
 ---
+
+### 写在最后
+人的记忆是一种不讲道理的存储介质。
+你记不住高数公式，记不住车牌号，记不住今天是几号，但你清楚记得四年前的一个下午ta穿了一件白T恤站在便利店门口等你，手里拿着两根老冰棍，一根给你一根ta自己的，ta那根还没拆就在滴。
+这不公平。
+这个 Skill 就是把这些不公平的记忆导出来。从生物硬盘到数字硬盘。格式转换。仅此而已。
+导完以后你会发现，ta也没那么好。ta也没那么差。ta就是那样一个人。会在吵完架两小时后问你吃了吗。会在纪念日那天忘了发消息然后第二天假装什么都没发生。
+是的，
+此刻，阳光在江面碎成一万个夏天，闪烁，又汇聚成一个冬天。这一切在你午睡时发生，你从未察觉。
 
 MIT License © [therealXiaomanChu](https://github.com/therealXiaomanChu)
