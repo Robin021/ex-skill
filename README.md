@@ -43,8 +43,6 @@ pip3 install -r requirements.txt
 ```
 
 ---
-
-## 【插入位置：「安装」和「使用」之间，作为新 section】
  
 ## 环境要求
  
