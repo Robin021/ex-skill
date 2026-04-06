@@ -110,7 +110,7 @@ Ex.skill     ❯ ...
 
 | Source | Format | Notes |
 |--------|--------|-------|
-| WeChat | WeChatMsg / PyWxDump export | Recommended, richest data |
+| WeChat | txt / html / json / csv exports | Recommended, richest data |
 | QQ | txt / mht export | Great for school-era relationships |
 | Social Media | Screenshots | Extracts public persona |
 | Photos | JPEG/PNG with EXIF | Timeline and location extraction |
